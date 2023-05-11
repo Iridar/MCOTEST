@@ -22,6 +22,9 @@
     <Content Include="Config\XComEngine.ini" />
     <Content Include="Config\XComGame.ini" />
     <Content Include="Localization\XComGame.int" />
+    <Content Include="Src\MCOTEST123\Classes\UISL_1.uc">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Src\MCOTEST123\Classes\X2DownloadableContentInfo_MCOTEST123.uc" />
     <Content Include="Src\MCOTEST123\Classes\XComGameState_Unit_Override.uc">
       <SubType>Content</SubType>
